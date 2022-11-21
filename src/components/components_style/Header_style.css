@@ -1,0 +1,19 @@
+.Header_parent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 20px;
+    align-items: center;
+    background: #F5F5F5;
+}
+.Header_icon{
+    height: 30px;
+    width: 30px;
+}
+.Header_logo{
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 15px;
+}

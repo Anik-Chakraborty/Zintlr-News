@@ -1,0 +1,123 @@
+.Headline{
+    background: #F5F5F5;
+}
+.item{
+    position: relative;
+    min-height: 20rem;
+    min-width: 15rem;
+    padding: 10px;
+    
+}
+
+
+
+.item img{
+    width: 100%;
+    height: 100%;
+    border-radius: 0.7rem;
+    pointer-events: none;
+    object-fit : cover;
+    
+}
+
+.category{
+    position: absolute;
+    padding: 5px 8px;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    top: 5%;
+    left: 7%;
+    border-radius: 0.7rem;
+    background: #F4F4F4B2;
+    
+}
+.Bookmark{
+    position: absolute;
+    top: 5%;
+    right: 7%;
+    background: #F4F4F4B2;
+}
+.gradient{
+    
+    width: 92%;
+    height: 100%;
+    z-index: 5;
+    background: rgb(255,255,255);
+    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(0,0,0,0.8) 95%);
+    object-fit: contain;
+    position: absolute;
+    border-radius: 0.7rem;
+    top: 0;
+
+}
+
+.details{
+    z-index: 6;
+    display: flex;
+    row-gap: -100px;
+    flex-direction: column;
+    position: absolute;
+    width: 85%;
+    height: 30%;
+    left: 7%;
+    bottom: 5%;
+    
+}
+
+.headline_time{
+    margin: 2px 0;
+    color: #FFC6D3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    text-align: justify;
+    
+}
+
+.headline_title{
+    
+    margin: 2px 0;
+    color: white;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: justify;
+
+}
+
+.headline_description{
+    margin: 2px 0;
+    color: #FFFFFFBA;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    text-align: justify;
+    
+}
+
+.headline_source_name{
+    margin: 2px 0;
+    color: #FFFFFFBA;
+    font-family: 'Roboto Flex';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    text-align: justify;
+    
+}
+
+.inner-carousel{
+    display: flex;
+}
+.carousel{
+    cursor:grab;
+    overflow: hidden;
+}
