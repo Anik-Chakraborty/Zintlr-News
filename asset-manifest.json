@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Zintlr-News/static/css/main.2bd7135a.css",
+    "main.js": "/Zintlr-News/static/js/main.1b28caad.js",
+    "static/js/787.9e1cf7e0.chunk.js": "/Zintlr-News/static/js/787.9e1cf7e0.chunk.js",
+    "index.html": "/Zintlr-News/index.html",
+    "main.2bd7135a.css.map": "/Zintlr-News/static/css/main.2bd7135a.css.map",
+    "main.1b28caad.js.map": "/Zintlr-News/static/js/main.1b28caad.js.map",
+    "787.9e1cf7e0.chunk.js.map": "/Zintlr-News/static/js/787.9e1cf7e0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd7135a.css",
+    "static/js/main.1b28caad.js"
+  ]
+}
