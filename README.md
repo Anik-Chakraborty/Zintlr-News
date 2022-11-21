@@ -1,3 +1,8 @@
+#This is app is build by using react 
+The website is live at  https://anik-chakraborty.github.io/zintlr-news/
+This website displays the latest news which are fetched from news api
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
