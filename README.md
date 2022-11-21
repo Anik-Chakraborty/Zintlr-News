@@ -1,4 +1,4 @@
-# This is app is build by using react 
+# This is app is build by react.js
 
 The website is live at  https://anik-chakraborty.github.io/zintlr-news/
 
