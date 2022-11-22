@@ -1,7 +1,5 @@
 # This is app is build by react.js
 
-The website is live at  https://anik-chakraborty.github.io/zintlr-news/
-
 This website displays the latest news which are fetched from news api
 
 
